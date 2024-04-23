@@ -1,0 +1,19 @@
+{
+"team_andriy" : {
+    "ships_types" : [
+        {"strength":40,"health":50},
+        {"strength":25,"health":100},
+        {"strength":10,"health":150},
+        {"strength":5,"health":400}
+    ]
+},
+
+"team_bot" : {
+    "ships_types" : [
+        {"strength":1,"health":800},
+        {"strength":100,"health":100},
+        {"strength":90,"health":10},
+        {"strength":20,"health":80}
+    ]
+}
+}
